@@ -11,14 +11,16 @@
           with two letters." />
         </div>
         <div class="col-12 col-md-8 offset-md-2 mt-3 text-center">
-          <h1>The SitesMonster Newsletter. <br />Packed With Site Boosting Ideas.</h1>
+          <h1>Follow My Journey from 0 to 100,000 Monthly Pageviews!</h1>
           <h2 class="pt-0 pb-0 mb-0 d-none d-md-block no-underline">
-            Join the thousands of other people like you who get a newsletter packed full of tutorials, strategies,
-            and ideas on how to boost their sites, straight to their inbox.
+           Starting with an empty blog, I'm sharing everything I do to get from 0 pageviews to 100,000 monthly pageviews, every step of the way.
           </h2>
+          <p class="mt-4">
+            Never miss out on the latest tips & tricks, tutorials, SEO strategies and more as I show you how you too can create a website that gets 100,000 monthly pageviews.
+          </p>
         </div>
         <div class="col-12 col-md-6 offset-md-3 text-center mt-0 mt-md-4">
-          <p class="d-block d-md-none">Get one email per month, packed full of tutorials, strategies, tips and tricks, straight to your inbox.</p>
+          <p class="d-block d-md-none">Get emails packed full of tutorials, strategies, tips and tricks, straight to your inbox.</p>
           <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4bf8b50b46368889097a8e9c9&amp;id=5ff2e71b5c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
             <div class="input-group mb-3">
               <input type="email" class="form-control form-control-sm" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required>

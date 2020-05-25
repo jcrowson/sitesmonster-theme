@@ -19,9 +19,9 @@
     <div class="container">
       <div class="row">
         <div class="col mt-5">
-          <p>MoneyMonster.org Privacy Policy</p>
+          <p>SitesMonster.com Privacy Policy</p>
 
-          <p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit MoneyMonster.org (the &ldquo;Site&rdquo;).</p>
+          <p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit SitesMonster.com (the &ldquo;Site&rdquo;).</p>
 
           <p>PERSONAL INFORMATION WE COLLECT</p>
 
@@ -62,7 +62,7 @@
           <p>CHANGES We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p>
 
           <p>CONTACT US For more information about our privacy practices, if you have questions, or if you would like
-            to make a complaint, please contact us by e-mail at hello@moneymonster.com</p>
+            to make a complaint, please contact us by e-mail at hello@sitesmonster.com</p>
         </div>
       </div>
     </div>
