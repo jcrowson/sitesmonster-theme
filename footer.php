@@ -16,13 +16,13 @@
         </form>
       </div>
       <div class="col-12 my-3 my-md-0">
-        <a href="https://moneymonster.org/about" onClick="gtag('event', 'click', { 'event_category': 'navigation', 'event_label': 'about' });">
+        <a href="https://sitesmonster.com/about" onClick="gtag('event', 'click', { 'event_category': 'navigation', 'event_label': 'about' });">
           About
         </a>
         <a class="ml-2" href="/privacy" target="_blank" onClick="gtag('event', 'click', { 'event_category':'navigation', 'event_label': 'privacy' });">
           Privacy
         </a>
-        <a class="ml-2" href="https://moneymonster.org/feed" target="_blank" onClick="gtag('event', 'click', {'event_category': 'navigation', 'event_label': 'feed' });">
+        <a class="ml-2" href="https://sitesmonster.com/feed" target="_blank" onClick="gtag('event', 'click', {'event_category': 'navigation', 'event_label': 'feed' });">
           RSS
         </a>
         <br/>
