@@ -29,7 +29,7 @@
             <h2 class="mt-0 pt-0">📬 Join the Upmostly Newsletter</h2>
             Get one email a month, packed with our latest React tutorials, delivered straight to your inbox.
           </div>
-          <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4bf8b50b46368889097a8e9c9&amp;id=5ff2e71b5c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
+          <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
             <div class="input-group my-3">
               <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required>
               <div class="input-group-append">

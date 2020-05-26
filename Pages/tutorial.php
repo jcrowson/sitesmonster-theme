@@ -44,7 +44,7 @@ $post_tags = get_the_tags();
                   <span class="text-muted">
                    📬 Monthly Newsletter
                   </span>
-                  <form action="https://wplogic.us18.list-manage.com/subscribe/post?u=7806e537fd7c0d111ed32b4a6&amp;id=c4ae659733" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
+                  <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
                     <div class="input-group mt-3 mb-2">
                       <input type="email" class="form-control form-control-sm" name="EMAIL" id="mce-EMAIL" placeholder="Your Email" required>
                       <div class="input-group-append">
@@ -71,7 +71,7 @@ $post_tags = get_the_tags();
               <h2 class="mt-0 pt-0 no-underline">📬 The Monthly MoneyMonster Newsletter</h2>
               One email a month, packed with the latest online money making tutorials, delivered straight to your inbox.
             </div>
-            <form action="https://wplogic.us18.list-manage.com/subscribe/post?u=7806e537fd7c0d111ed32b4a6&amp;id=c4ae659733" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
+            <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
               <div class="input-group my-3">
                 <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required>
                 <div class="input-group-append">

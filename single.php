@@ -49,7 +49,7 @@
                   <span class="text-muted">
                    🚀 Follow my journey to 100,000 monthly pageviews!
                   </span>
-                  <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4bf8b50b46368889097a8e9c9&amp;id=5ff2e71b5c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
+                  <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
                     <div class="input-group mt-3 mb-2">
                       <input type="email" class="form-control form-control-sm" name="EMAIL" id="mce-EMAIL" placeholder="Your Email" required>
                       <div class="input-group-append">

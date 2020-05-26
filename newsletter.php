@@ -21,7 +21,7 @@
         </div>
         <div class="col-12 col-md-6 offset-md-3 text-center mt-0 mt-md-4">
           <p class="d-block d-md-none">Get emails packed full of tutorials, strategies, tips and tricks, straight to your inbox.</p>
-          <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4bf8b50b46368889097a8e9c9&amp;id=5ff2e71b5c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
+          <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
             <div class="input-group mb-3">
               <input type="email" class="form-control form-control-sm" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required>
               <div class="input-group-append">

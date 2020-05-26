@@ -6,9 +6,9 @@
       </div>
       <div class="col-12 col-md-6">
         📮 Get the SitesMonster newsletter. Packed with the best website tutorials, strategies, tips & tricks, delivered straight to your inbox.
-        <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4bf8b50b46368889097a8e9c9&amp;id=5ff2e71b5c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
+        <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
           <div class="input-group my-4">
-            <input type="email" class="form-control form-control-sm" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required>
+            <input type="email" class="form-control form-control-sm" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required />
             <div class="input-group-append">
               <button class="btn btn-sm btn-primary" type="submit" onClick="ga('send', 'event', 'cta', 'Click', 'Footer Newsletter', '0');">Join Newsletter!</button>
             </div>
