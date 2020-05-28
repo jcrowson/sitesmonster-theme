@@ -6,6 +6,8 @@
   <title><?php wp_title('-', true, 'right'); ?></title>
   <?php wp_head(); ?>
   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Mailchimp popup code -->
+  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"3c9dcba3087c23c6f6169f1bb","lid":"2cf9263eb9","uniqueMethods":true}) })</script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151114276-1"></script>
   <script>
