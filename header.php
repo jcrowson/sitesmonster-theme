@@ -6,7 +6,7 @@
   <title><?php wp_title('-', true, 'right'); ?></title>
   <?php wp_head(); ?>
   <!-- Mailchimp popup code -->
-  <script defer type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"3c9dcba3087c23c6f6169f1bb","lid":"2cf9263eb9", "uniqueMethods":true}) })</script>
+  <!--  <script defer type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"3c9dcba3087c23c6f6169f1bb","lid":"2cf9263eb9", "uniqueMethods":true}) })</script>-->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167591287-1"></script>
   <script>

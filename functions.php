@@ -4,7 +4,7 @@
     wp_enqueue_style('bootstrap4', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', array(), '1.0.0', 'all');
     wp_enqueue_style('customstyle', get_template_directory_uri() . '/assets/styles.css', array(), '1.0.3', 'all');
     wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap', true );
-    wp_enqueue_script( 'mailchimp', 'https://downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js', true );
+//    wp_enqueue_script( 'mailchimp', 'https://downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js', true );
   }
 
   add_action('wp_enqueue_scripts', 'main_script_create');
