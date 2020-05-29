@@ -29,7 +29,7 @@
           ?>
         </div>
         <div class="author-block text-muted">
-          <img class="rounded-circle mr-1" src="https://moneymonster.org/wp-content/uploads/james-headshot.jpg" alt="James King"/>
+          <img class="rounded-circle mr-1" src="<?php echo get_template_directory_uri() ?>/assets/james-king-headshot.jpg" alt="James King"/>
           <span class="author">James King</span>
         </div>
       </aside>

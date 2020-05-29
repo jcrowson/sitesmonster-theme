@@ -10,11 +10,6 @@
             I'm sharing everything I do to get from <span class="mon-highlight">0 pageviews to 100,000 monthly pageviews</span>, every step of the way, so you too can build a successful site!
           </h2>
         </div>
-<!--        <div class="col-12 mt-4 d-flex justify-content-center">-->
-<!--          <a href="https://moneymonster.org/how-i-get-paid-to-write-from-home" style="color: white;" role="button" class="btn btn-primary">-->
-<!--            Start a Blog Today &rarr;-->
-<!--          </a>-->
-<!--        </div>-->
       </div>
     </div>
   </section>
@@ -22,7 +17,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2>Read the Latest Journey Entries...</h2>
+          <h2>Latest Journey Updates...</h2>
         </div>
       </div>
       <div class="row">

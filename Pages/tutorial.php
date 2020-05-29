@@ -68,7 +68,7 @@ $post_tags = get_the_tags();
         <div class="row my-4">
           <div class="monthly-newsletter-box text-center">
             <div class="col">
-              <h2 class="mt-0 pt-0 no-underline">📬 The Monthly MoneyMonster Newsletter</h2>
+              <h2 class="mt-0 pt-0 no-underline">📬 The Monthly SitesMonster Newsletter</h2>
               One email a month, packed with the latest online money making tutorials, delivered straight to your inbox.
             </div>
             <form action="https://sitesmonster.us18.list-manage.com/subscribe/post?u=3c9dcba3087c23c6f6169f1bb&amp;id=2cf9263eb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate>
