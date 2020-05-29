@@ -15,7 +15,9 @@
   </section>
   <div class="album mt-5 pb-5">
     <div class="container">
-      <?php include('Components/category-all-posts.php'); ?>
+      <div class="row">
+        <?php include('Components/category-all-posts.php'); ?>
+      </div>
     </div>
   </div>
 </main>
