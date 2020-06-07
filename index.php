@@ -26,6 +26,16 @@
       <div class="row">
         <div class="col-12">
           <h2>
+            Latest Thoughts...
+          </h2>
+        </div>
+      </div>
+      <div class="row">
+        <?php include('Components/all-thoughts.php'); ?>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <h2>
             Latest Interviews...
           </h2>
         </div>
